@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JRIVERADDIAZ/ghy_api-react-materialUI/static/css/main.418b4f68.css",
+    "main.js": "/JRIVERADDIAZ/ghy_api-react-materialUI/static/js/main.bd351254.js",
+    "index.html": "/JRIVERADDIAZ/ghy_api-react-materialUI/index.html",
+    "main.418b4f68.css.map": "/JRIVERADDIAZ/ghy_api-react-materialUI/static/css/main.418b4f68.css.map",
+    "main.bd351254.js.map": "/JRIVERADDIAZ/ghy_api-react-materialUI/static/js/main.bd351254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.418b4f68.css",
+    "static/js/main.bd351254.js"
+  ]
+}
