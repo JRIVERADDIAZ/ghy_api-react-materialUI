@@ -1,0 +1,38 @@
+.giphy_card_body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.giphy_card_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 350px;
+}
+
+.giphy_cards_title_container {
+    width: 70%;
+    height: auto;
+}
+
+.giphy_cards_image_container {
+    height: 200px;
+    width: 317px;
+}
+
+.giphy_cards_image{
+    height: 100%;
+    width: 100%;
+}
+
+.giphy_cards_title {
+    font-size: medium;
+}
