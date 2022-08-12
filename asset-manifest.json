@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JRIVERADDIAZ.github.io/giphy_api-react-materialUI/static/css/main.418b4f68.css",
-    "main.js": "/JRIVERADDIAZ.github.io/giphy_api-react-materialUI/static/js/main.bd351254.js",
-    "index.html": "/JRIVERADDIAZ.github.io/giphy_api-react-materialUI/index.html",
-    "main.418b4f68.css.map": "/JRIVERADDIAZ.github.io/giphy_api-react-materialUI/static/css/main.418b4f68.css.map",
-    "main.bd351254.js.map": "/JRIVERADDIAZ.github.io/giphy_api-react-materialUI/static/js/main.bd351254.js.map"
+    "main.css": "/giphy_api-react-materialUI/static/css/main.418b4f68.css",
+    "main.js": "/giphy_api-react-materialUI/static/js/main.bd351254.js",
+    "index.html": "/giphy_api-react-materialUI/index.html",
+    "main.418b4f68.css.map": "/giphy_api-react-materialUI/static/css/main.418b4f68.css.map",
+    "main.bd351254.js.map": "/giphy_api-react-materialUI/static/js/main.bd351254.js.map"
   },
   "entrypoints": [
     "static/css/main.418b4f68.css",
